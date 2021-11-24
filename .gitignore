@@ -1,2 +1,5 @@
+# Release
 *.zip
 *_info.txt
+# Kicad Backup
+*.bak
