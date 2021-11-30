@@ -37,7 +37,7 @@
   (pad "1" thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
   (pad "2" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
   (pad "3" thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_openinput_openinput-kicad-library/openinput.3dshapes/SW_Micro_Switch.step"
+  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_openinput_openinput-kicad-library/openinput.3dshapes/SW_Micro_Switch.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
