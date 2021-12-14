@@ -34,8 +34,8 @@ The following entries are needed:
 
 | Library    | Nickname   | Library Path                                                                                 |
 |------------|------------|----------------------------------------------------------------------------------------------|
-| Symbols    | openinput  | `${KICAD6_3RD_PARTY}/symbols/com_github_openinput_openinput-kicad-library/openinput.kicad_sym` |
-| Footprints | openinput  | `${KICAD6_3RD_PARTY}/footprints/com_github_openinput_openinput-kicad-library/openinput.pretty` |
+| Symbols    | openinput  | `${KICAD6_3RD_PARTY}/symbols/com_github_openinput-fw_openinput-kicad-library/openinput.kicad_sym` |
+| Footprints | openinput  | `${KICAD6_3RD_PARTY}/footprints/com_github_openinput-fw_openinput-kicad-library/openinput.pretty` |
 
 ## Manual
 
