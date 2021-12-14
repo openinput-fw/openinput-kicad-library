@@ -1,9 +1,9 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "openinput Kicad library",
+    "name": "openinput library",
     "description": "Kicad symbol and footprint library for input device related components.",
-    "description_full": "This package contains footprints and symbols Kicad symbol and footprint library for input device related components.",
-    "identifier": "com.github.openinput.openinput-kicad-library",
+    "description_full": "This package contains footprints and symbols for input device related components like optical tracking sensors and switches.",
+    "identifier": "com.github.openinput-fw.openinput-kicad-library",
     "type": "library",
     "author": {
         "name": "Rafael Silva (perigoso)",
@@ -21,14 +21,16 @@
         "mouse",
         "gaming",
         "optical",
+        "tracking",
+        "sensor",
         "input-device"
     ],
     "versions": [
         {
             "version": "0.1",
-            "status": "testing",
-            "kicad_version": "5.1",
-            "download_url": "https://github.com/openinput/openinput-kicad-library/releases/download/v0.1/openinput-kicad-library.zip"
+            "status": "development",
+            "kicad_version": "6.0",
+            "download_url": "https://github.com/openinput-fw/openinput-kicad-library/releases/download/v0.1/openinput-kicad-library.zip"
         }
     ]
 }
