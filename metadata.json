@@ -28,10 +28,10 @@
     ],
     "versions": [
         {
-            "version": "0.1",
-            "status": "development",
+            "version": "0.2",
+            "status": "testing",
             "kicad_version": "6.0",
-            "download_url": "https://github.com/openinput-fw/openinput-kicad-library/releases/download/v0.1/openinput-kicad-library.zip"
+            "download_url": "https://github.com/openinput-fw/openinput-kicad-library/releases/download/v0.2/openinput-kicad-library.zip"
         }
     ]
 }
