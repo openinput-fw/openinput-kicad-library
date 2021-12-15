@@ -8,12 +8,13 @@ Kicad symbol and footprint library for input device related components not avail
 
 | Footprints                   |
 |------------------------------|
-| PXI-DIP-16 (PMW3360/PMW3389) |
+| PXI-DIP-16 (PMW33xx/PAW3399) |
 | Generic Micro switch         |
 | Generic Encoder              |
 
 | Symbols              |
 |----------------------|
+| PAW3399DM‐T4QU       |
 | PMW3360DM-T2QU       |
 | PMW3389DM‐T3QU       |
 | Generic Micro switch |
