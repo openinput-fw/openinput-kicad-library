@@ -13,7 +13,8 @@
     },
     "license": "CC-BY-4.0",
     "resources": {
-        "Github": "https://github.com/openinput-fw/openinput-kicad-library"
+        "donate": "https://opencollective.com/openinput",
+        "github": "https://github.com/openinput-fw/openinput-kicad-library"
     },
     "tags": [
         "footprint",
