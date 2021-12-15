@@ -24,6 +24,8 @@ This library is made with Kicad `6.0.0-rc1` and over in mind.
 
 ## Through PCM (Recomended)
 
+The library should be available in the official KiCad PCM repository, proceed if you wish to install manually or offline
+
 To Install open Kicad's `Plugin and Content Manager` (shortcut `Ctrl+M`) and `Install from File...` with the packaged library found in [releases](https://github.com/openinput-fw/openinput-kicad-library/releases)
 
 Kicad uses library tables to keep track of installed libraries. As of `6.0.0-rc1` Content Manager DOES NOT automatically update these library tables.
