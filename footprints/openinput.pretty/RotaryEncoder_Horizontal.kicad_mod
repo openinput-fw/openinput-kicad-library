@@ -38,6 +38,6 @@
   (pad "A" thru_hole circle (at -2.5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
   (pad "B" thru_hole circle (at 0 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
   (pad "C" thru_hole circle (at 2.5 0) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
-  (pad "MP" thru_hole oval (at -5.1 -2 90) (size 2.7 1.6) (drill oval 2 0.9) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
-  (pad "MP" thru_hole oval (at 5.1 -2 90) (size 2.7 1.6) (drill oval 2 0.9) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
+  (pad "MP" thru_hole oval (at -5.2 -2 90) (size 2.7 1.7) (drill oval 2 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
+  (pad "MP" thru_hole oval (at 5.2 -2 90) (size 2.7 1.7) (drill oval 2 1) (layers *.Cu *.Mask) (tstamp 00000000-0000-0000-0000-000000000000))
 )
