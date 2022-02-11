@@ -45,3 +45,7 @@ The following entries are needed:
 Extract the same ackaged library found in [releases](https://github.com/openinput-fw/openinput-kicad-library/releases) to where you want the library stored, and add the relevant entries to the library tables in `Manage Symbol Libraries...` and `Manage Footprint Libraries...` in `Preferences`.
 
 `note: the path to the 3d models is fixed, so depending on where you install the library they might not show up by default`
+
+## License
+
+This library is dual licensed under [MIT](LICENSE-MIT) and [CC-BY-4.0](LICENSE-CC-BY-4).
